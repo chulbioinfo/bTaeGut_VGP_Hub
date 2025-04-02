@@ -1,0 +1,10 @@
+genome bTaeGut7.mat+Z.cur.20250313
+trackDb bTaeGut7.mat+Z.cur.20250313/trackDb.txt
+twoBitPath https://drive.google.com/open?id=1rJ9Y-QzDo5wTgibqI5GMrJDoLT-oa55H&usp=drive_fs
+organism Taeniopygia guttata
+defaultPos chr1_mat:1000000-1010000
+genome bTaeGut7.pat+WZ.cur.20250313
+trackDb bTaeGut7.pat+WZ.cur.20250313/trackDb.txt
+twoBitPath https://drive.google.com/open?id=1ujfs7Ri2me3sMR2j_zJ3WN5c4dpOYqdd&usp=drive_fs
+organism Taeniopygia guttata
+defaultPos chr1_pat:1000000-1010000

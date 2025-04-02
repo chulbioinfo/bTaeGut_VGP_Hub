@@ -1,0 +1,5 @@
+hub bTaeGut_VGP_Hub
+shortLabel bTaeGut_VGP_Hub
+longLabel Multiple Assemblies for Zebra Finch (Vertebrate Genomes Project)
+genomesFile genomes.txt
+email chul.bioinfo@gmail.com
