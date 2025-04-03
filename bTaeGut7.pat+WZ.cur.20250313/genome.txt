@@ -1,0 +1,5 @@
+description bTaeGut7.pat+WZ.cur.20250313 Assembly
+organism Taeniopygia guttata
+defaultPos chr1:1000000-1010000
+scientificName Taeniopygia guttata
+orderKey 4801

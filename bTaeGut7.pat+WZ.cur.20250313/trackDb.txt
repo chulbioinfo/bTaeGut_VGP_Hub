@@ -1,0 +1,7 @@
+track epigenetics
+shortLabel 5mC for bTaeGut7.pat+WZ.cur.20250313
+longLabel DNA methylation probability for bTaeGut7.pat+WZ.cur.20250313
+type bigWig
+bigDataUrl https://drive.google.com/open?id=1Hbm-tkbzWJCmV8Ik2XtA3YLr1lk-jTdK&usp=drive_fs
+visibility full
+autoScale on
